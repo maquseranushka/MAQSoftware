@@ -63,7 +63,6 @@
 
         accordion();
     }
-
     function loadRedmondCareers(sNewsData) {
         var parser;
         try {
